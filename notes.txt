@@ -1,0 +1,1 @@
+Just a thing to help generate some random pets for adoption. Plug the output into an SQL query and go nuts.
